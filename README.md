@@ -1,1 +1,1 @@
-# EDA_on_FIFA20_dataset
+The FIFA20 dataset includes data about 18000 of players and has over 100 attributes for analysis. This project comprises exploratory data analysis on the players data, gaining interesting and useful insights of the data which is represented visually.
